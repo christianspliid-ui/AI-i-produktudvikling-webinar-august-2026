@@ -1,0 +1,13 @@
+﻿ID,Quick win (kan gøres samme eftermiddag),Udfordring,Princip-reference
+QW1,"Farvelæg jeres AI-dashboard: alt der måler BRUG markeres gult, alt der måler UDFALD grønt. Intet grønt? Så er dagens to-do at vælge én outcome-metrik og baseline den i morgen.",A. Fra adoption til værdi,P3
+QW2,Mærk alle igangværende AI-initiativer Learn eller Earn på 30 min. Alt der hverken tester en antagelse eller bygger kommerciel kvalitet på evidens er accelereret projektmodel - kandidat til stop.,A. Fra adoption til værdi,P5
+QW3,"Kortlæg ét smertefuldt workflow på en tavle og spørg: hvilke trin ville slet ikke findes, hvis vi designede baglæns fra outcomet? Det er kandidat til pilot nr. 1.",A. Fra adoption til værdi,"P1, P2"
+QW4,Vedtag workslop-normen med én besked i teamkanalen: AI-brug er velkommen og deklareres - men afsenderen ejer kvaliteten og skal kunne forsvare alt der sendes videre.,B. Verifikation & dømmekraft,P16
+QW5,Risiko-tier jeres 5 hyppigste AI-outputtyper på ét whiteboard i tre kolonner: stikprøve / én reviewer / godkendelseskæde. Verifikationsstrategi v0.1 på 20 minutter.,B. Verifikation & dømmekraft,P13
+QW6,Mini-fejlanalyse: læs 10 rigtige AI-outputs fra sidste uge sammen i 30 min. og notér fejltyper i et regneark. Første skridt mod evals - kræver hverken kode eller værktøjer.,B. Verifikation & dømmekraft,P19
+QW7,"Skriv teamets første AGENTS.md/projektinstruktion (45 min, hele teamet): hvad produktet gør, konventioner, hvad godt output ligner, hvad AI ikke må røre. Fra i morgen starter ingen fra nul.",C. Team-AI-setup,P23
+QW8,Book næste retro som AI-retro (Atlassians 4 trin) og opret det levende dokument AI hjælper os med / Vi undgår AI til med 3 punkter i hver kolonne. Målt: +34% alignment efter én session.,C. Team-AI-setup,P27
+QW9,Lederen poster ét AI-fund i teamkanalen - inklusive en fejl. Opret evt. #ai-fund-kanal og bed alle matche med ét fund om ugen. Billigste kendte kur mod secret cyborgs.,E. Mennesker & forandring,P35
+QW10,"Torres-øvelsen: tag ét punkt fra din to-do-liste NU, giv AI 15 minutter med prompten Jeg skal lave det her - hvordan kan du hjælpe? Acceptér middelmådigt resultat; gentag i morgen.",F. Kom i gang,P38
+QW11,"Slå spend-alerts og model-defaults til i admin-konsollen (10 min). Ved I ikke hvem der har admin-adgang, er DET dagens fund.",G. Omkostningsdisciplin,P41
+QW12,"Start agent-inventaret: regneark med AI-værktøj/agent, ejer, adgange - udfyld for eget team og send til nærmeste leder med spørgsmålet: hvem ejer det samlede billede?",D. Governance & sikkerhed,P31
